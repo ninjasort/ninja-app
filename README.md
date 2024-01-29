@@ -45,11 +45,11 @@ Today I'm going over the folder structure of this Next.js app.
 
 Here's how it breaks down:
 
-/app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
-/app/lib: Contains functions used in your application, such as reusable utility functions and data fetching functions.
-/app/ui: Contains all the UI components for your application, such as cards, tables, and forms. To save time, we've pre-styled these components for you.
-/public: Contains all the static assets for your application, such as images.
-/scripts: Contains a seeding script that you'll use to populate your database in a later chapter.
+- /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
+- /app/lib: Contains functions used in your application, such as reusable utility functions and data fetching functions.
+- /app/ui: Contains all the UI components for your application, such as cards, tables, and forms. To save time, we've pre-styled these components for you.
+- /public: Contains all the static assets for your application, such as images.
+- /scripts: Contains a seeding script that you'll use to populate your database in a later chapter.
 
 ![Alt text](public/folder-structure.png)
 
@@ -61,4 +61,3 @@ What's nice about Next.js is that all the routes are based on the folder structu
 
 /app/dashbaord is the route `/dashboard`
 /app/dashboard/invoices is the route `/dashboard/invoices`
-
