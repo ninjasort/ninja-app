@@ -74,3 +74,19 @@ Once the URL is created, I am reading the parameters and rendering the paginatio
 
 This state includes currentPage and totalPages which are both of type Number that I'm using to calculate the pagination prev/next buttons.
 
+## Day 4 - Building a Next.js App
+
+Today we're building invoices and using the Vercel Postgres module to push data to the cloud.
+
+Check out the app here: https://ninja-app-phi.vercel.app/dashboard
+
+One of the features of Next.js is the ability to cache route data in the browser cache.
+
+This makes the app fast because data doesn't need to load from the server when navigating the client side.
+
+However, when you update new data you want to revalidate the cache so that it's the latest and greatest!
+
+Finally always redirect the user to the route that shows the result of their create operation. 
+
+In this case, we're going to `/dashboard/invoices`
+
