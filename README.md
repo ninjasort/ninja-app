@@ -61,3 +61,16 @@ What's nice about Next.js is that all the routes are based on the folder structu
 
 /app/dashbaord is the route `/dashboard`
 /app/dashboard/invoices is the route `/dashboard/invoices`
+
+## Day 3 - Building a Next.js App
+
+Today I was working on setting up Pagination for this Next.js app.
+
+To do that I used the React hooks from 'next/navigation'.
+
+With these hooks I was able to access the pathname and query parameters to create a page URL.
+
+Once the URL is created, I am reading the parameters and rendering the pagination component with the correct state.
+
+This state includes currentPage and totalPages which are both of type Number that I'm using to calculate the pagination prev/next buttons.
+
