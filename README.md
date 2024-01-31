@@ -86,7 +86,16 @@ This makes the app fast because data doesn't need to load from the server when n
 
 However, when you update new data you want to revalidate the cache so that it's the latest and greatest!
 
-Finally always redirect the user to the route that shows the result of their create operation. 
+Finally always redirect the user to the route that shows the result of their create operation.
 
 In this case, we're going to `/dashboard/invoices`
 
+## Day 5 - Building a Next.js App
+
+Today I made some changes to the invoices so you can now edit and delete them.
+
+Each of these functions is a Server Action that executes SQL code directly.
+
+I'm importing the actions into the components.
+
+Using the Next.js `revalidatePath` we can sync the data from the server with the client.
