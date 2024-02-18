@@ -4,6 +4,16 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+- [Project dashboard](https://vercel.com/camerons-projects-a4bd4993/ninja-app)
+- [Deployments](https://vercel.com/camerons-projects-a4bd4993/ninja-app/deployments)
+- [Analytics](https://vercel.com/camerons-projects-a4bd4993/ninja-app/analytics?environment=all)
+- [Speed Insights](https://vercel.com/camerons-projects-a4bd4993/ninja-app/speed-insights)
+- [Logs](https://vercel.com/camerons-projects-a4bd4993/ninja-app/logs)
+- [Storage](https://vercel.com/camerons-projects-a4bd4993/ninja-app/stores)
+- [Project Settings](https://vercel.com/camerons-projects-a4bd4993/ninja-app/settings)
+
+---
+
 ## Day 1 - Building a Next.js App
 
 Next.js is a React framework that helps launch high performance web applications.
