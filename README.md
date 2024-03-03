@@ -109,3 +109,54 @@ Each of these functions is a Server Action that executes SQL code directly.
 I'm importing the actions into the components.
 
 Using the Next.js `revalidatePath` we can sync the data from the server with the client.
+
+### Routing
+
+https://nextjs.org/docs/app/building-your-application/routing
+
+### Data Fetching
+
+https://nextjs.org/docs/app/building-your-application/data-fetching
+
+### Rendering
+
+https://nextjs.org/docs/app/building-your-application/rendering
+https://nextjs.org/docs/app/building-your-application/caching
+
+### Styling
+
+https://nextjs.org/docs/app/building-your-application/styling
+
+### Authentication
+
+https://nextjs.org/docs/app/building-your-application/authentication
+
+### Cloud Storage
+
+https://vercel.com/camerons-projects-a4bd4993/ninja-app/stores
+
+### Optimization
+
+https://nextjs.org/docs/app/building-your-application/optimizing
+
+### Testing
+
+https://nextjs.org/docs/app/building-your-application/testing
+https://vercel.com/camerons-projects-a4bd4993/ninja-app/logs
+
+[Cypress](https://devdocs.io/cypress), [Chai](https://devdocs.io/chai), [Enzyme](https://devdocs.io/enzyme), [Mocha](https://devdocs.io/mocha), [Sinon](https://devdocs.io/sinon~15), [QUnit](https://devdocs.io/qunit), [Jest](https://devdocs.io/jest), [Jasmine](https://devdocs.io/jasmine)
+
+### Deploying
+
+https://nextjs.org/docs/app/building-your-application/deploying
+https://vercel.com/camerons-projects-a4bd4993/ninja-app/deployments
+
+### Cloud Config
+
+https://vercel.com/camerons-projects-a4bd4993/ninja-app
+https://vercel.com/camerons-projects-a4bd4993/ninja-app/settings
+
+### Cloud Analytics
+
+https://vercel.com/camerons-projects-a4bd4993/ninja-app/analytics?environment=all
+https://vercel.com/camerons-projects-a4bd4993/ninja-app/speed-insights
